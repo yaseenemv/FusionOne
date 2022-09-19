@@ -3,10 +3,6 @@
 
 i just went to their software security i saw many things in software that affecting software security,that's why i developed a cracking tool for the software
 
-
-![Logo](https://raw.githubusercontent.com/yaseenemv/FusionOne/main/Logo.ico)
-
-
 ## 🚀 About Me
 I'm a  security researcher...
 
